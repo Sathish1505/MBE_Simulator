@@ -20,3 +20,5 @@ and provides an interactive web interface via Streamlit.
 - 🌐 Streamlit Web App Interface
 
 ---------------------------------------------------------------------------------------------------
+## Live App
+[Click here to view the Streamlit app](https://mbsimulator-nmnf6eptwgkvcqg2qkikvn.streamlit.app/)
